@@ -1,5 +1,28 @@
-# 💫 About Me:
-<h1 align="center">Hey, I'm Kakashi 👨‍💻</h1><br><p align="center"><br>  <em>“Code in silence, let your tools make the noise.”</em><br><br>  <strong>Full-Stack Developer | Product Builder | Minimalist</strong><br></p><br><br>---<br><br>🧩 I build tools that are clean in code and loud in impact.  <br>🧠 Crafting intuitive systems that just work — with precision, not clutter.  <br>⚔️ Known in the code world as *Kakashi* — quiet operator, surgical execution.<br><br>🚧 Currently focusing on:<br>- 🛠️ Automation & AI tools (`RankBlaze.in`)  <br>- 🌐 Chrome Extensions & Devtools  <br>- 🔥 Firebase & Scalable Real-Time Systems<br><br>🧭 Tech stack that feels like home:  <br>`React` • `Next.js` • `TailwindCSS` • `Node.js` • `Firebase` • `MongoDB`<br><br>---<br><br>🕶 Personal Code Philosophy:  <br>> *Clean UI. Smarter UX. Zero noise. Pure function.*<br><br>---<br><br>
+<h1 align="center">Hey, I'm Kakashi 👨‍💻</h1>
+<p align="center">
+  <em>“Code in silence, let your tools make the noise.”</em><br>
+  <strong>Full-Stack Developer | Product Builder | Minimalist</strong>
+</p>
+
+---
+
+🧩 I build tools that are clean in code and loud in impact.  
+🧠 Crafting intuitive systems that just work — with precision, not clutter.  
+⚔️ Known in the code world as *Kakashi* — quiet operator, surgical execution.
+
+🚧 Currently focusing on:
+- 🛠️ Automation & AI tools (`RankBlaze.in`)  
+- 🌐 Chrome Extensions & Devtools  
+- 🔥 Firebase & Scalable Real-Time Systems
+
+🧭 Tech stack that feels like home:  
+`React` • `Next.js` • `TailwindCSS` • `Node.js` • `Firebase` • `MongoDB`
+
+---
+
+🕶 Personal Code Philosophy:  
+> *Clean UI. Smarter UX. Zero noise. Pure function.*
+
 
 
 ## 🌐 Socials:
