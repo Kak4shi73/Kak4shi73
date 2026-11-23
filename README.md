@@ -1,8 +1,5 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark-v2.gif">
-  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light-v2.gif">
-  <img src="assets/banner-dark-v2.png" alt="Kakashi, full-stack developer. A crow glides across a monochrome field of layered contours and settles into a seal.">
-</picture>
+![Kakashi, full-stack developer. A crow glides across a monochrome field of layered contours and settles into a seal.](assets/banner-dark-v2.gif#gh-dark-mode-only)
+![Kakashi, full-stack developer. A crow glides across a monochrome field of layered contours and settles into a seal.](assets/banner-light-v2.gif#gh-light-mode-only)
 
 I build AI products end to end — Next.js, TypeScript, Supabase.
 
